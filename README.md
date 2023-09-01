@@ -1,6 +1,5 @@
 # Movies_App_Clone
 Movies_App
-# Movies-App
 React JS Mini Project(https://a2zmovies.ccbp.tech/)
 In this project let's build a **Movies App** by applying the concepts we have learned till now. This project allows you to practice the concepts and techniques learned till React Course and apply them in a concrete project.
 
